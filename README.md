@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Eclipse DG Website Screen Shot" src="![image](https://github.com/ismayilzada1/EclipseDG/assets/130251565/9bfd2aa3-5e2b-44ef-bfdc-053f8e30a62b)">
+<img width="1266" alt="Eclipse DG Website Screen Shot" src="![Untitled](https://github.com/ismayilzada1/EclipseDG/assets/130251565/03ad2948-c144-4af3-94be-b149b8b9f5ae)">
 
 
 
