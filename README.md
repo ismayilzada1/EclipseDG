@@ -1,6 +1,6 @@
 # Eclipse DG Website Front End
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![Website](https://eclipsedg.site/)
 
 ![Untitled](https://github.com/ismayilzada1/EclipseDG/assets/130251565/c86eb267-db2c-4ed3-a710-4b3728debca0)
 
