@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://user-images.githubusercontent.com/50160672/174933373-1ba6cadf-1c9a-48c3-aa58-984d0bd62d82.png">
+<img width="1266" alt="Eclipse DG Website Screen Shot" src="![image](https://github.com/ismayilzada1/EclipseDG/assets/130251565/9bfd2aa3-5e2b-44ef-bfdc-053f8e30a62b)">
+
+
 
 Built using:
 
